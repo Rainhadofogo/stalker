@@ -40,4 +40,5 @@ public class Cadastrar extends AppCompatActivity {
         Persistencia.getInstance().strs.add(p);
         finish();
     }
+
 }

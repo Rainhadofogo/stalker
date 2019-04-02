@@ -86,7 +86,7 @@
         android:onClick="clicarBotaoApagar"
         android:text="@string/apagar" />
 
-    <Button=
+    <Button
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:onClick="clicarBotaoEditar"
