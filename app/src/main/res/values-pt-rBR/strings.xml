@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Stalker V1</string>
+    <string name="cadastrar">Cadastrar</string>
+    <string name="listar">Listar</string>
+    <string name="salvar">Salvar</string>
+    <string name="nome">Nome</string>
+    <string name="emprego">Emprego</string>
+    <string name="dtnascimento">Data de Nascimento</string>
+    <string name="telefone">Telefone</string>
+    <string name="descricao">Descrição</string>
+    <string name="apagar">Deletar Pessoa</string>
+    <string name="editar">Editar</string>
+</resources>

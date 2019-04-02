@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Stalker V1</string>
+    <string name="cadastrar">Register</string>
+    <string name="listar">List</string>
+    <string name="salvar">Save</string>
+    <string name="nome">Name</string>
+    <string name="emprego">Job</string>
+    <string name="dtnascimento">Date of birth</string>
+    <string name="telefone">Tell</string>
+    <string name="descricao">Description</string>
+    <string name="apagar">Delete Person</string>
+    <string name="editar">Edit</string>
+</resources>
